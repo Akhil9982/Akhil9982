@@ -32,7 +32,6 @@ I am a passionate developer from **Berhampur**, focused on building clean, respo
 <div align="center">
   
   ![Akhil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akhil9982&theme=radical&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil9982&layout=compact&theme=radical&hide_border=true)
   
 </div>
 
