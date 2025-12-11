@@ -32,6 +32,7 @@ I am a passionate developer from **Berhampur**, focused on building clean, respo
 <div align="center">
   
   ![Akhil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akhil9982&theme=radical&hide_border=true)
+  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil9982&layout=compact&theme=radical&hide_border=true)
   
 </div>
@@ -45,6 +46,11 @@ I am a passionate developer from **Berhampur**, focused on building clean, respo
 <a href="https://akhil9982.github.io/Portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.instagram.com/i_am_akhil_battula/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="i_am_akhil_battula" /></a>
 </p>
+
+---
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Akhil9982&color=blue&style=flat)
 
 ---
 
