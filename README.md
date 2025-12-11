@@ -40,7 +40,7 @@ Git • GitHub • Postman • VS Code • Figma
 
 ### **Portfolio Website**
 Live: https://akhil9982.github.io/Portfolio/  
-Tech: React, JavaScript, CSS Modules
+Tech: JavaScript, CSS Modules
 
 ### **UI Systems & Templates**
 Reusable UI layouts designed for scalable frontends.  
