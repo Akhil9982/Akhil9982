@@ -16,6 +16,16 @@ I am a passionate developer from **Berhampur**, focused on building clean, respo
 
 ---
 
+## 💼 Work Experience
+
+| Company | Role | Duration | Description |
+| :--- | :--- | :--- | :--- |
+| **Infosys** | Senior Associate Consultant | *Jan 2022 - Mar 2025* | Developed Studio Scripts for banking requirements and migrated complex IVR flows from Genesys to NiceCXOne Cloud. Handled P1 incidents via ServiceNow and trained new team members. |
+| **Tech Mahindra** | Associate Customer Support | *Jun 2019 - Jul 2021* | Managed high-volume inbound calls for a leading e-commerce platform. Specialized in resolving complex customer escalations and ensuring high satisfaction rates. |
+| **Crushaders Tech** | Software Developer Intern | *May 2018 - Jun 2018* | Worked on full-stack web development using **HTML5, JavaScript, AngularJS, PHP,** and **MySQL**. |
+
+---
+
 ## 📂 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -29,11 +39,9 @@ I am a passionate developer from **Berhampur**, focused on building clean, respo
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![Akhil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akhil9982&theme=radical&hide_border=true)
-  
-</div>
+![Akhil's Stats](https://github-readme-stats.vercel.app/api?username=Akhil9982&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil9982&theme=radical)
 
 ---
 
@@ -44,11 +52,6 @@ I am a passionate developer from **Berhampur**, focused on building clean, respo
 <a href="https://akhil9982.github.io/Portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.instagram.com/i_am_akhil_battula/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="i_am_akhil_battula" /></a>
 </p>
-
----
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Akhil9982&color=blue&style=flat)
 
 ---
 
