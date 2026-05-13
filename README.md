@@ -1,58 +1,97 @@
-# 👋 Hi, I'm Akhil Battula! 
+<h1 align="center">Hi 👋, I'm Akhil Battula</h1>
 
-### 🚀 Full Stack Web Developer | MERN Stack Enthusiast
+<h3 align="center">
+Frontend Developer | React.js Enthusiast | Building Projects & Improving Daily
+</h3>
 
-I am a passionate developer focused on building clean, responsive, and scalable web applications. With a strong foundation in frontend technologies and professional experience in consulting and support, I am currently deep-diving into the **MERN stack** to create seamless user experiences.
+---
+
+## 🚀 About Me
+
+- 🌱 Currently improving my skills in:
+  - React.js
+  - JavaScript
+  - Node.js
+  - System Design Basics
+
+- 💻 Focused on:
+  - Frontend Development
+  - Building Real Projects
+  - Writing Cleaner Code
+  - Interview Preparation
+
+- 🎯 Goal:
+  - Transition into a strong Frontend Engineer role
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
 
-**Backend & Databases:** ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-**Tools & Platforms:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-| Company | Role | Impact |
-| :--- | :--- | :--- |
-| **Infosys** | Senior Associate Consultant | Developed complex Studio Scripts and migrated IVR flows to NiceCXOne Cloud. Managed critical P1 incidents and mentored junior team members. |
-| **Tech Mahindra** | Associate Customer Support | Resolved high-level customer escalations for major e-commerce platforms, maintaining high satisfaction rates. |
-| **Crushaders Tech** | Software Developer Intern | Gained hands-on experience in full-stack development using HTML5, JavaScript, AngularJS, and PHP/MySQL. |
-
----
-
-## 📂 Featured Projects
-
-* **[Music Player](https://github.com/Akhil9982/music_player)** – A sleek, interactive web-based music player with custom controls and playlist logic.
-* **[Currency Converter](https://github.com/Akhil9982/currency_converter)** – Real-time conversion tool integrated with live Exchange APIs.
-* **[Rock Paper Scissors](https://github.com/Akhil9982/rock_paper_scissors_game)** – A fun, logic-driven game demonstrating DOM manipulation and state tracking.
-* **[Portfolio Website](https://github.com/Akhil9982/Portfolio)** – My personal corner of the web, showcasing my journey and projects.
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhil9982&theme=radical" />
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 📌 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilbattula/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akhil9982.github.io/Portfolio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_am_akhil_battula/)
+### 🐍 Snake Game
+Classic Snake Game built using Vanilla JavaScript.
+
+🔗 Repo:
+https://github.com/Akhil9982/snake_game_js
+
+### ui-page-react
+A modern and responsive card-based UI project built using React and Vite.
+This project focuses on reusable React components, clean UI structure, and fast frontend development workflow using Vite.
+
+🔗 Repo:
+https://github.com/Akhil9982/ui-page-react
+
+### 🌐 More Projects
+Check out my repositories here:
+
+🔗 https://github.com/Akhil9982?tab=repositories
 
 ---
-*Building the web, one commit at a time.* 💻
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhil9982&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil9982&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://github.com/Akhil9982">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I learn best by building projects and debugging things the hard way.
