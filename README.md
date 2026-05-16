@@ -1,97 +1,92 @@
-<h1 align="center">Hi 👋, I'm Akhil Battula</h1>
+# Hi, I'm Akhil 👋
 
-<h3 align="center">
-Frontend Developer | React.js Enthusiast | Building Projects & Improving Daily
-</h3>
+Frontend Web Developer transitioning from enterprise Cloud CX and Contact Center technologies into modern web development.
 
----
+I have 5+ years of experience working at Infosys and Tech Mahindra with exposure to:
+- NICE CXone
+- Genesys
+- ServiceNow
+- IVR Migration
+- Production Support
+- Agile environments
 
-## 🚀 About Me
-
-- 🌱 Currently improving my skills in:
-  - React.js
-  - JavaScript
-  - Node.js
-  - System Design Basics
-
-- 💻 Focused on:
-  - Frontend Development
-  - Building Real Projects
-  - Writing Cleaner Code
-  - Interview Preparation
-
-- 🎯 Goal:
-  - Transition into a strong Frontend Engineer role
+Currently focused on building responsive frontend applications using React.js and modern JavaScript.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
-</p>
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+- Bootstrap
+- Vite
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+### Backend Basics
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
 
 ### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
+- Git
+- GitHub
+- VS Code
+- Postman
 
 ---
 
-## 📌 Featured Projects
+## 📌 Current Focus
 
-### 🐍 Snake Game
-Classic Snake Game built using Vanilla JavaScript.
-
-🔗 Repo:
-https://github.com/Akhil9982/snake_game_js
-
-### ui-page-react
-A modern and responsive card-based UI project built using React and Vite.
-This project focuses on reusable React components, clean UI structure, and fast frontend development workflow using Vite.
-
-🔗 Repo:
-https://github.com/Akhil9982/ui-page-react
-
-### 🌐 More Projects
-Check out my repositories here:
-
-🔗 https://github.com/Akhil9982?tab=repositories
+- Strengthening JavaScript fundamentals
+- Improving React.js architecture & component design
+- Building frontend dashboard projects
+- Practicing responsive UI development
+- Improving problem-solving and debugging skills
 
 ---
 
-## 📈 GitHub Stats
+## 💻 Projects
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhil9982&show_icons=true&theme=tokyonight" />
-</p>
+### 🔹 Snake Game
+JavaScript-based browser game with keyboard controls, score tracking, and responsive gameplay logic.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil9982&theme=tokyonight" />
-</p>
+### 🔹 Notes App
+React-based notes management application with component-driven UI and local state handling.
 
----
+### 🔹 Gallery App
+Responsive image gallery built using React.js with reusable UI components and modern frontend practices.
 
-## 🌍 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://github.com/Akhil9982">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+More projects coming soon...
 
 ---
 
-## ⚡ Fun Fact
+## 📚 Currently Learning
 
-I learn best by building projects and debugging things the hard way.
+- Advanced React patterns
+- State management
+- Frontend architecture
+- API handling & async flows
+- Frontend interview preparation
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/akhilbattula/
+- GitHub: https://github.com/Akhil9982
+
+---
+
+## 🎯 Career Goal
+
+Looking for opportunities as:
+- Frontend Developer
+- React.js Developer
+- UI Developer
+
+where I can combine enterprise experience with modern frontend engineering skills.
