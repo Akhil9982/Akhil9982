@@ -29,7 +29,7 @@ const akhil = {
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery,sass" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
@@ -135,7 +135,7 @@ https://github.com/Akhil9982/search-filter
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/akhilbattula/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
