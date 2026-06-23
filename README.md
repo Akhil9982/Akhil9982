@@ -101,7 +101,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil9982"
 ## 🌍 Connect With Me
 
 LinkedIn:
-www.linkedin.com/in/akhilbattula
+www.linkedin.com/in/akhilbatulla
 
 Portfolio:
 akhil9982.github.io/Portfolio/
